@@ -27,7 +27,7 @@ or
 $ Rscript Scripts/doHippMapp3RSegmentation.R Data/Example/1097782_defaced_MPRAGE.nii.gz outputProbabilityMask.nii.gz
 
 ```
-Rscript Scripts/doHippMapp3RSegmentation.R Data/Example/1097782_defaced_MPRAGE.nii.gz test.nii.gz Data/Template/S_template3_reoreiented.nii.gz
+Rscript Scripts/doHippMapp3RSegmentation.R Data/Example/1097782_defaced_MPRAGE.nii.gz test.nii.gz Data/Template/S_template3_reoriented.nii.gz
 
 *** Successfully loaded .Rprofile ***
 
