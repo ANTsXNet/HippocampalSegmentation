@@ -1,3 +1,9 @@
+
+# **** This application has moved to the ANTsPyNet/ANTsRNet repositories.  The following is deprecated. ****
+
+----------------------------------
+
+
 # App:  Hippocampal segmentation
 
 Deep learning app for hippocampal segmentation directly ported from [HippMapp3r](https://www.ncbi.nlm.nih.gov/pubmed/31609046).
